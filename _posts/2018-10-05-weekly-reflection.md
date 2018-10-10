@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: Emmanuel Otoo
 date: 2018-10-05
 ---
 
