@@ -1,0 +1,1 @@
+This week in Intro to Computer Science, we leanred about characters and their characteristics. We also leanred the defintions of types, values, and function. String, number, and image are all types. 3.14 and 6281 are values because they're numbers. Sqrt, +, and star are functions. Fast Functions change because their size and/or color. This is what I learned this entire week.
