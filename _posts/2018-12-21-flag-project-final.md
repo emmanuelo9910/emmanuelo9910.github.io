@@ -18,7 +18,7 @@ The country I designed for this project was the United Kingdom. I expect a pract
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/images/final-flag.png)
+![Flag](/images/Wescheme Image(4).png)
 * * *
 
 ## Describe your process.
